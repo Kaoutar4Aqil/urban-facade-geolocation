@@ -102,3 +102,26 @@ data/raw/osm/
 
 # Archived development scripts
 archive/
+
+# Local experimental / legacy scripts
+batch_gis_candidates.py
+batch_sift_ransac.py
+cone_building_candidates.py
+download_buildings.py
+download_candidate_references.py
+download_test_images.py
+evaluate_v3.py
+filter_candidates_by_heading.py
+filter_reference_images.py
+find_candidate_buildings.py
+inspect_query_ground_truth.py
+rank_building_candidates.py
+save_mapillary_metadata.py
+search_reference_images.py
+sift_matching.py
+sift_ransac.py
+visibility_rays.py
+visualize_buildings.py
+visualize_candidates.py
+visualize_cone_candidates.py
+visualize_heading.py
