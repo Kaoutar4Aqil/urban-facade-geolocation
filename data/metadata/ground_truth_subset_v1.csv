@@ -1,0 +1,31 @@
+query_id,sequence,true_building_id,status,verification_method,notes,gis_candidate_count,gis_top1_for_reference_only,fusion_top1_for_reference_only
+281697256836891,0o7v3kbzcqzspok68eurr4,B0062,verified,manual_image_map_verification,Facade visually verified with query image and GIS map.,1,B0062,B0062
+472889960653931,0t8VavBstAis5ST_E4-zXQ,NO_BUILDING,verified,manual_image_map_verification,No clear target building visible in camera heading.,0,,
+173698057991820,4tdj39xrwr1par30bgplf2,B0127,verified,manual_image_map_verification,"Building B0127 verified from query image, camera heading and GIS map.",1,B0127,B0127
+141555101337124,4tdj39xrwr1par30bgplf2,B0127,verified,manual_image_map_verification,"Building B0127 verified from visible facade, camera heading and GIS map.",2,B0127,B0127
+872645923597680,98tda4dzuf84zbzsdet6t3,B0019,verified,manual_image_map_verification,"Building B0019 verified from query image, camera heading and GIS map.",1,B0019,B0019
+342820367248999,98tda4dzuf84zbzsdet6t3,B0014,verified,manual_image_map_verification,"Building B0014 verified from query image, camera heading and GIS map.",1,B0014,B0014
+1180200166298335,9ShupHkole4tMAbOUqENfC,B0014,verified,manual_image_map_verification,"Building B0014 verified from query image, camera heading and GIS map.",3,B0006,B0006
+2194032487616206,9ShupHkole4tMAbOUqENfC,B0165,verified,manual_image_map_verification,"Building B0165 verified from query image, camera heading and GIS map.",1,B0165,B0165
+1106003470036201,9lruaxbpAPkRQ2sqGjwByI,B0165,verified,manual_image_map_verification,"Building B0165 verified from query image, camera heading and GIS map.",4,B0006,B0006
+173777767979362,KsJF6XtVtYtN7Yj3dh--KQ,B0110,verified,manual_image_map_verification,"Building B0110 verified from query image, camera heading and GIS map.",3,B0110,B0110
+288267562966408,KsJF6XtVtYtN7Yj3dh--KQ,B0110,verified,manual_image_map_verification,"Building B0110 verified from query image, camera heading and GIS map.",3,B0110,B0110
+828279917812937,L2xUm0u-YQKW271vchJnww,B0123,verified,manual_image_map_verification,"Building B0123 verified from query image, camera heading and GIS map.",5,B0123,B0123
+563306154650990,L2xUm0u-YQKW271vchJnww,B0123,verified,manual_image_map_verification,"Building B0123 verified from query image, camera heading and GIS map.",5,B0123,B0123
+2894873010794086,LtYEP7j8o3e1tAyCenptNQ,B0102,verified,manual_image_map_verification,"Building B0102 verified from query image, camera heading and GIS map.",1,B0102,B0102
+799421574300682,LtYEP7j8o3e1tAyCenptNQ,B0102,verified,manual_image_map_verification,"Building B0102 verified from query image, camera heading and GIS map.",2,B0101,B0101
+485354839257022,PGf8VkAGuurirMI1LUEn4A,B0019,verified,manual_image_map_verification,"Building B0019 verified from query image, camera heading and GIS map.",4,B0019,B0019
+2951085711828430,PGf8VkAGuurirMI1LUEn4A,B0148,verified,manual_image_map_verification,"Building B0148 verified from query image, camera heading and GIS map.",6,B0019,B0019
+310234714037602,RiXzsPOvHzvEVsrZjXwLXD,B0165,verified,manual_image_map_verification,"Building B0165 verified from query image, camera heading and GIS map.",2,B0165,B0165
+275453527531880,RiXzsPOvHzvEVsrZjXwLXD,B0165,verified,manual_image_map_verification,"Building B0165 verified from query image, camera heading and GIS map.",2,B0165,B0409
+941083959999324,as9v0d34wofhmvke32wq5w,B0123,verified,manual_image_map_verification,"Building B0123 verified from query image, camera heading and GIS map.",4,B0123,B0123
+333592151492072,as9v0d34wofhmvke32wq5w,B0123,verified,manual_image_map_verification,"Building B0123 verified from query image, camera heading and GIS map.",5,B0123,B0123
+280291043810434,gh8sr787e38jvk9yucxxxm,NO_BUILDING,verified,manual_image_map_verification,No clear target building visible after manual image and map verification.,0,,
+526636091699811,gh8sr787e38jvk9yucxxxm,NO_BUILDING,verified,manual_image_map_verification,No clear target building visible after manual image and map verification.,0,,
+776055649761921,ilkz5ec2qq8x16q8djj7bd,B0128,verified,manual_image_map_verification,"Building B0128 verified from query image, camera heading and GIS map.",1,B0128,B0128
+138973908264709,ilkz5ec2qq8x16q8djj7bd,B0155,verified,manual_image_map_verification,"Building B0155 verified from query image, camera heading and GIS map.",4,B0155,B0127
+828796191072241,l7xfz0sqvnjt2ax75u9twp,B0155,verified,manual_image_map_verification,"Building B0155 verified from query image, camera heading and GIS map.",2,B0128,B0128
+1207001349764904,l7xfz0sqvnjt2ax75u9twp,B0128,verified,manual_image_map_verification,"Building B0128 verified from query image, camera heading and GIS map.",2,B0128,B0128
+1202230910991530,oeMTAWZhnXB0U7auIPtrNG,B0006,verified,manual_image_map_verification,"Building B0006 verified from query image, camera heading and GIS map.",3,B0006,B0006
+1474701913443059,oeMTAWZhnXB0U7auIPtrNG,B0006,verified,manual_image_map_verification,"Building B0006 verified from query image, camera heading and GIS map.",4,B0006,B0006
+223774435813473,vxl4ql0a94csqn6058rybl,NO_BUILDING,verified,manual_image_map_verification,No clear target building visible after manual image and map verification.,0,,

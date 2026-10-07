@@ -1,0 +1,104 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local cache
+cache/
+
+# Large raw image folders
+data/raw/images/
+data/raw/query_subset_v1/
+data/raw/reference_images/
+data/raw/reference_pool/
+data/raw/reference_pool_v2/
+data/raw/reference_pool_subset_v3/
+
+# Generated HTML maps
+data/processed/ground_truth_maps_subset_v1/
+
+# Generated evaluation plots
+data/processed/evaluation_plots/
+
+# Optional generated outputs
+data/processed/prediction_comparisons_v2/
+
+# Metadata and processed CSV / GeoJSON files
+# are intentionally kept for reproducibility.
+archive/
+archive/
+
+# ------------------------------------------------------------
+# Previous experiments / backups
+# ------------------------------------------------------------
+*_backup.csv
+data/metadata/ground_truth.csv
+data/metadata/images_metadata.csv
+data/metadata/mapillary_test_images.csv
+
+data/processed/batch_final_predictions.csv
+data/processed/batch_final_predictions_subset_v1.csv
+data/processed/batch_final_predictions_v2.csv
+data/processed/batch_final_predictions_v3.csv
+data/processed/batch_gis_candidates.csv
+data/processed/batch_sift_ransac_results.csv
+data/processed/building_candidates.csv
+data/processed/evaluation_v3.csv
+data/processed/final_building_ranking.csv
+data/processed/final_building_ranking_v2.csv
+data/processed/reference_pool_metadata.csv
+data/processed/reference_pool_metadata_v2.csv
+data/processed/reference_pool_subset_v1.csv
+data/processed/reference_pool_subset_v2.csv
+data/processed/visibility_candidates.csv
+
+# Old/debug visualizations
+data/processed/ground_truth_maps/
+data/processed/prediction_comparisons/
+data/processed/*.html
+data/processed/query_vs_*.jpg
+
+# Duplicate experiment snapshots
+data/snapshots/
+
+# Raw OSM download - reproducible through scripts
+data/raw/osm/
+
+# Archived development scripts
+archive/
+
+# Duplicate experiment snapshots
+data/snapshots/
+
+# Raw OSM download - reproducible through scripts
+data/raw/osm/
+
+# Archived development scripts
+archive/

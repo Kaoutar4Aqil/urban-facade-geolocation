@@ -1,0 +1,11 @@
+pandas
+numpy
+geopandas
+shapely
+osmnx
+folium
+opencv-python
+matplotlib
+requests
+python-dotenv
+Pillow

@@ -1,0 +1,11 @@
+metric,value
+verified_queries,30.0
+gis_top1_accuracy,0.8333333333333334
+fusion_top1_accuracy,0.7666666666666667
+fusion_top3_accuracy,0.8666666666666667
+gis_candidate_recall,0.8846153846153846
+no_building_accuracy,1.0
+gis_top1_errors,5.0
+fusion_top1_errors,7.0
+fusion_improvements,0.0
+fusion_degradations,2.0
